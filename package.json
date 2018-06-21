@@ -1,19 +1,33 @@
 {
   "name": "parcel-plugin-twig",
   "version": "1.0.0",
-  "description": "",
+  "description": "Uses the Twig package to enable twig file loading in parcel bundler.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "parcel-bundler": "^1.9.1",
     "twig": "^1.12.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnorhs/parcel-plugin-twig.git"
+  },
+  "keywords": [
+    "twig",
+    "parcel",
+    "parcel",
+    "bundler"
+  ],
+  "author": "Arnor Heidar Sigurdsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnorhs/parcel-plugin-twig/issues"
+  },
+  "homepage": "https://github.com/arnorhs/parcel-plugin-twig#readme"
 }
