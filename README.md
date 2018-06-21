@@ -1,6 +1,7 @@
 ## parcel-plugin-twig
 
-Uses the [Twig](https://www.npmjs.com/package/twig) to enable twig file loading in parcel bundler.
+Uses the [twig](https://www.npmjs.com/package/twig) module to enable twig file loading in
+parcel bundler.
 
 It's pretty rough atm.
 
