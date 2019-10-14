@@ -7,7 +7,8 @@
     "lib": "lib"
   },
   "dependencies": {
-    "parcel-bundler": "^1.9.1",
+    "lodash": "^4.17.15",
+    "parcel-bundler": "^1.12.4",
     "twig": "^1.12.0"
   },
   "devDependencies": {},
