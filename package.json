@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-twig",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Uses the Twig package to enable twig file loading in parcel bundler.",
   "main": "index.js",
   "directories": {
